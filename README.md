@@ -1,12 +1,18 @@
 
 ### 
 
-Olá, seja bem vindo ao meu github. Meu nome é Rafael Vicente. Sou estudante de engenharia informática e programação. Atualmente procuro oportunidades e desafios para alavancar a minha carreira como Dev.
-#
-Algumas tecnologias que estou estudando:
-</br>
-HTML5, CSS3, JAVASCRIPT, C#(.NET, ASP.NET CORE, RAZOR) PYTHON, JQUERY, SQL-SERVER, Mysql...
-#
+👋 Olá.
+-Rafael Vicente é o meu nome, moro em Angola (Luanda -Capital).
+- Tenho o ensino médio concluído em comunicação social.
+- Atualmente sou estudante da escola 42Luanda.
+- E estou aprendendo C, C++, Unix, Virtual Machines.
+-------------------------------------------------------------------
+-Tenho experiência em programação, desenvolvimento web.
+-Domínio das linguagens de marcação, HTML5 e CSS3.
+-Domínio das linguagem de programação 
+JavaScript, PHP e o frameworks Node.js.
+-------------------------------------------------------------------
+Domínio do inglês nível intermediário
 <div align="center">
   <a href="https://github.com/RafaelVicen">
 
@@ -75,7 +81,6 @@ HTML5, CSS3, JAVASCRIPT, C#(.NET, ASP.NET CORE, RAZOR) PYTHON, JQUERY, SQL-SERVE
 
 
 </div> <br>
-Entusiasta da segurança da informação.<br> Apaixonado por tecnologia e Daily Vlog.<br> Educação e por querer mudar a vida das pessoas através da programação.
 
 ## Ultimos Videos:
 - [Daily vlog | Angola (África) no kilamba](https://www.youtube.com/watch?v=eEg4OF6I0zs&t=0s)
