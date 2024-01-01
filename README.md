@@ -8,12 +8,18 @@
 - Atualmente sou estudante da escola 42Luanda.
 - E estou aprendendo C, C++, Unix, Virtual Machines.
 -------------------------------------------------------------------
+
 -Tenho experiência em programação, desenvolvimento web.
+
 -Domínio das linguagens de marcação, HTML5 e CSS3.
+
 -Domínio das linguagem de programação 
+
 JavaScript, PHP e o frameworks Node.js.
+
+Domínio do inglês nível intermediário.
 -------------------------------------------------------------------
-Domínio do inglês nível intermediário
+
 <div align="center">
   <a href="https://github.com/RafaelVicen">
 
