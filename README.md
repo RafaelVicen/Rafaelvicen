@@ -2,6 +2,7 @@
 ### 
 
 👋 Olá.
+
 -Rafael Vicente é o meu nome, moro em Angola (Luanda -Capital).
 - Tenho o ensino médio concluído em comunicação social.
 - Atualmente sou estudante da escola 42Luanda.
