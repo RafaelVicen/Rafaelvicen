@@ -15,7 +15,7 @@
 
 -Domínio das linguagem de programação 
 
-JavaScript, PHP e o frameworks Node.js.
+JavaScript, C, C++ C#, Shell Script.
 
 Domínio do inglês nível intermediário.
 -------------------------------------------------------------------
