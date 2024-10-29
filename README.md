@@ -15,7 +15,7 @@
 
 -Domínio das linguagem de programação 
 
-JavaScript, C, C++ C#, unix & python.
+JavaScript, C,  unix & python.
 
 Domínio do inglês nível intermediário.
 -------------------------------------------------------------------
