@@ -4,7 +4,7 @@
 👋 Olá.
 
 -Rafael Vicente é o meu nome, moro em Angola (Luanda -Capital).
-- Tenho o ensino médio concluído em comunicação social.
+- Formação comunicação social.
 - Atualmente sou estudante da escola 42Luanda.
 - E estou aprendendo C, C++, Unix, Virtual Machines & Python.
 -------------------------------------------------------------------
@@ -15,7 +15,7 @@
 
 -Domínio das linguagem de programação 
 
-JavaScript, C,  unix & python.
+C++, C,  unix & python.
 
 Domínio do inglês nível intermediário.
 -------------------------------------------------------------------
