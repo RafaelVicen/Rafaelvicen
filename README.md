@@ -18,12 +18,6 @@
   
 </div>
 
-  ##
-
-<div>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
- <a href = "mailto:vicenterafael451@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href ="https://www.facebook.com/profile.php?id=100024639436819" target="_blank"><img src = "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /> </a>
    <a href ="https://www.instagram.com/rafael_vicente67/" target="_blank"><img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a>
  <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href="https://github.com/RafaelVicen" target="_blank"><img src= "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -52,10 +46,4 @@
 
 
 
-
-</div> <br>
-
-## Ultimos Videos:
-- [Daily vlog | Angola (África) no kilamba](https://www.youtube.com/watch?v=eEg4OF6I0zs&t=0s)
-- [role com amigos](https://www.youtube.com/watch?v=WGk3-vPLTMw)<br>
 
