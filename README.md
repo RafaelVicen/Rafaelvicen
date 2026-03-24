@@ -2,82 +2,44 @@
 
 <div align="center">
   <a href="https://github.com/RafaelVicen">
-    <img width="400" height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelVicen&show_icons=true&theme=dark" alt="Estatísticas do GitHub" />
-    <img width="400" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelVicen&layout=compact&langs_count=16&theme=dark" alt="Linguagens mais usadas" />
+    <img width="400" height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelVicen&show_icons=true&theme=dark" />
+    <img width="400" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelVicen&layout=compact&langs_count=16&theme=dark" />
   </a>
 </div>
 
 <br>
 
+### 🛠️ Tecnologias e Ferramentas
+*As linguagens abaixo representam meu stack atual de estudo e desenvolvimento:*
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/GIT-E34F26?style=for-the-badge&logo=git&logoColor=white" />
+</div>
+
+---
+
+### 📈 Atividade no GitHub
 <div align="center">
   <a href="https://github.com/RafaelVicen">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=RafaelVicen&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true" width="100%" alt="Gráfico de Atividade" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=RafaelVicen&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true" width="100%" />
   </a>
 </div>
 
 ---
 
-### 🚀 Tecnologias e Ferramentas
-
-Aqui estão as linguagens e ferramentas que utilizo no meu dia a dia de desenvolvimento e administração de sistemas:
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="TypeScript" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=angular" width="40" height="40" alt="Angular" />
-      <br>Angular
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=go" width="40" height="40" alt="Go" />
-      <br>Go
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=powershell" width="40" height="40" alt="PowerShell" />
-      <br>PowerShell
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" />
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="Linux" />
-      <br>Linux
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=bash" width="40" height="40" alt="Bash" />
-      <br>Bash
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" />
-      <br>Git
-    </td>
-  </tr>
-</table>
-
----
-
 ### 💻 Sobre Mim
 
-* 🛠️ **Foco Atual:** Especialização no ecossistema JavaScript/TypeScript e Segurança Ofensiva.
-* 🐧 **Experiência:** Sólidos conhecimentos em administração de sistemas Linux e automação.
-* 🎯 **Objetivo:** Desenvolver aplicações escaláveis, seguras e eficientes.
+* 🛠️ **Foco:** Especialização no ecossistema JavaScript/TypeScript, Node.js e Bancos de Dados.
+* 🛡️ **Cybersecurity:** Estudando Ethical Hacking e segurança em sistemas Linux.
+* 🚀 **Projetos:** Atualmente desenvolvendo o **ekoclip**.
 
 ---
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelVicen&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" width="41%" />
-</div>
