@@ -1,45 +1,66 @@
-# Olá, eu sou o Rafael Vicente 👋
-
 <div align="center">
-  <a href="https://github.com/RafaelVicen">
-    <img width="400" height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelVicen&show_icons=true&theme=dark" />
-    <img width="400" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelVicen&layout=compact&langs_count=16&theme=dark" />
-  </a>
+  <h1>Olá, eu sou o <a href="https://github.com/RafaelVicen">Rafael Vicente</a> 👋</h1>
+  <p align="center">
+    <strong>Aspiring Developer | Ethical Hacking Enthusiast | Linux Specialist</strong>
+  </p>
+
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=RafaelVicen&label=Perfil%20Views&color=b13583&style=flat" alt="Views" />
+  </p>
 </div>
 
-<br>
+---
+
+### 🚀 Sobre Mim
+* 🛡️ **Cybersecurity:** Focado em Segurança Ofensiva com o projeto **Meu Universo Security**.
+* ⚙️ **Automação:** Especialista em scripts de automação via **PowerShell** e **Python**.
+* 🌐 **Fullstack:** Construindo o futuro da web com **TypeScript**, **Node.js** e **Angular**.
+* 🐧 **Sistemas:** Administrador de sistemas Linux e entusiasta de Shell Scripting.
+
+---
 
 ### 🛠️ Tecnologias e Ferramentas
-*As linguagens abaixo representam meu stack atual de estudo e desenvolvimento:*
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,go,powershell,bash" />
   <br>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/GIT-E34F26?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=angular,nodejs,mongodb,linux,git,github,vscode,netlify" />
 </div>
 
 ---
 
-### 📈 Atividade no GitHub
+### 📊 Estatísticas e Atividade
+
 <div align="center">
-  <a href="https://github.com/RafaelVicen">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=RafaelVicen&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true" width="100%" />
+  <table border="0">
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelVicen&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelVicen&layout=compact&langs_count=10&theme=tokyonight&hide=html,css" />
+      </td>
+    </tr>
+  </table>
+
+  <br>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RafaelVicen&bg_color=1a1b27&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true" width="100%" />
+</div>
+
+---
+
+### 📂 Projetos em Destaque
+- 📁 **[ekoclip](https://github.com/RafaelVicen/ekoclip)** - Gestão inteligente de ativos e metadados.
+- 📁 **[Meu Universo Security](https://github.com/RafaelVicen)** - Laboratórios de Ethical Hacking e Segurança.
+- 📁 **[LimpezaPC](https://github.com/RafaelVicen)** - Automação de manutenção Windows via PowerShell.
+
+---
+
+<div align="center">
+  <p><i>"A Vida é um bolinho! Logica de algoritmo, o resto é tudo linguagem!"</i></p>
+  
+  <a href="https://www.linkedin.com/in/rafael-vicente-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
-
----
-
-### 💻 Sobre Mim
-
-* 🛠️ **Foco:** Especialização no ecossistema JavaScript/TypeScript, Node.js e Bancos de Dados.
-* 🛡️ **Cybersecurity:** Estudando Ethical Hacking e segurança em sistemas Linux.
-* 🚀 **Projetos:** Atualmente desenvolvendo o **ekoclip**.
-
----
