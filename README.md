@@ -4,7 +4,7 @@
     <strong>Aspiring Developer | Ethical Hacking Enthusiast | Linux Specialist</strong>
   </p>
 
-  <img width="600px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelVicen&layout=compact&langs_count=10&theme=tokyonight&hide=html,css&card_width=600" />
+  <img width="650px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelVicen&layout=compact&langs_count=10&theme=calm&hide=html,css&card_width=650&title_color=e07a5f&text_color=e07a5f&icon_color=e07a5f" />
 </div>
 
 <br>
@@ -12,8 +12,8 @@
 ---
 
 ### 🚀 Sobre Mim
-* 🛡️ **Cybersecurity:** Focado em Segurança Ofensiva com o projeto **Meu Universo Security**.
-* ⚙️ **Automação:** Especialista em scripts de automação via **PowerShell** e **Python**.
+* 🛡️ **Cybersecurity:** Projetos como o **Meu Universo Security** focados em Ethical Hacking e automação.
+* ⚙️ **Automação:** Especialista em scripts de manutenção via **PowerShell** e **Python**.
 * 🌐 **Fullstack:** Construindo o futuro da web com **TypeScript**, **Node.js** e **Angular**.
 
 ---
@@ -29,11 +29,11 @@
 ### 📊 Estatísticas Gerais e Atividade
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelVicen&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelVicen&show_icons=true&theme=calm&include_all_commits=true&count_private=true" />
   
   <br><br>
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RafaelVicen&bg_color=1a1b27&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RafaelVicen&bg_color=1a1b27&color=e07a5f&line=e07a5f&point=ff9494&area=true&hide_border=true" width="100%" />
 </div>
 
 ---
