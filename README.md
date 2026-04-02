@@ -1,15 +1,74 @@
-# 👋 Olá, eu sou o Rafael Vicente
+<h2 align='center'> <i>👋 Olá, eu sou o Rafael Vicente!</h2>  
 
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=RafaelVicen&show_icons=true&theme=tokyonight)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=RafaelVicen&show_icons=true&theme=tokyonight&hide_border=true" width="400">
 
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelVicen&layout=compact&theme=tokyonight)
+_Sou um **Desenvolvedor em Formação** focado no ecossistema JavaScript (Node.js e TypeScript). Com background como Técnico de TI, hoje dedico meus estudos à construção de aplicações robustas e à **Segurança Ofensiva (Web Hacking)**. Atualmente focado no projeto **[Ekoclip](https://github.com/RafaelVicen/ekoclip)**._  
 
----
+<br>
 
-### 🚀 Sobre Mim
-- 🎓 **Desenvolvedor em Formação** (JS/TS).
-- 🛡️ **Cybersecurity** & Hacking Web.
-- 🐧 **Certificado Linux**.
+<table width="100">
+<tr>
+ <td align='center'>
+    <b>Atualmente aprendendo</b>
+ </td>
+ <td align='center' width="60">
+     <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="30">
+ </td>
+</tr>
+</table>
 
-### 🛠️ Tecnologias
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+</br>
+
+<h2 align='center'><i>Gráfico de Atividade 📈</i></h2>
+<p align="center">
+<a href="https://github.com/RafaelVicen">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=RafaelVicen&theme=tokyonight&area=true&hide_border=true" width="100%">
+</a>
+</p>
+
+</br>
+
+<h2 align='center'><i>Linguagens e Ferramentas</i></h2>
+
+<table align="center">
+<tr>
+    <td align='center' width="150">
+        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
+    </td>
+    <td align='center' width="150">
+        <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg">
+    </td>
+    <td align='center' width="150">
+        <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg">
+    </td>
+     <td align='center' width="150">
+        <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg">
+    </td>
+</tr>
+<tr>
+    <td align='center' width="150">
+            <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" width="100"/>
+    </td>
+    <td align='center' width="150">
+            <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" width="100"/>
+    </td>
+     <td align='center' width="150">
+        <img src="https://www.vectorlogo.zone/logos/kali/kali-ar21.svg" width="100">
+    </td>
+    <td align='center' width="150">
+        <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" width="100">
+    </td>
+</tr>
+</table>
+
+<h2 align='center'><i>Projeto em Destaque</i></h2>
+
+<p align="center">
+<a href="https://github.com/RafaelVicen/ekoclip">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=RafaelVicen&repo=ekoclip&theme=tokyonight&hide_border=true" height="185">
+</a>
+</p>
+
+<p align="center">
+  <i>"A documentação oficial é o melhor tutorial."</i>
+</p>
