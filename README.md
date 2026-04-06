@@ -1,4 +1,4 @@
-# ⚡ Rafael Vicente
+#  Rafael Vicente
 > `Fullstack Developer in Training | Cybersecurity Enthusiast | Linux Certified`
 
 ---
